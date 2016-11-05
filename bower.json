@@ -1,0 +1,18 @@
+{
+  "name": "x",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "zhy <aorv@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/zhy1/HAMA",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
